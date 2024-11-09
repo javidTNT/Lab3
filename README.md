@@ -20,8 +20,7 @@ Yêu cầu khách hàng mong muốn:
 - Giáo viên có thể tạo các diễn đàn trao đổi giữa giáo viên và học viên
 - Giáo viên đánh giá về tiến độ học tập của học viên
 - ## 2.Giới thiệu công nghệ sử dụng
-![image]([image](https://github.com/user-attachments/assets/a3ae765c-7155-40ee-aea3-2efe29997e9a)
-)
+![image](https://github.com/user-attachments/assets/a3ae765c-7155-40ee-aea3-2efe29997e9a)
 
 **MVC** là viết tắt của "Model-View-Controller," một mô hình kiến trúc phần mềm được sử dụng rộng rãi trong phát triển ứng dụng web và phần mềm để tách biệt logic ứng dụng thành ba phần chính: Model, View và Controller. Mô hình này giúp cải thiện tổ chức mã nguồn, tăng tính tái sử dụng và dễ bảo trì. Dưới đây là giới thiệu về từng phần trong mô hình MVC:
 
