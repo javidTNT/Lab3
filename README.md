@@ -3,9 +3,9 @@
 ## Thành viên
 | | Họ và tên | Vai trò |
 | ------------- | ------------- | ------------- |
-| | Trương Nhật Thụy  | Product Owner  |
-| | Nguyễn Duy Dương | Scrum Master |
-| | Nguyễn Minh Khang | Team Leader  |
+| 21DH113384 | Trương Nhật Thụy  | Product Owner  |
+| 22DH110650 | Nguyễn Duy Dương | Scrum Master |
+| 22DH111518 | Nguyễn Minh Khang | Team Leader  |
 ## 1.Giới thiệu Đề tài
 Trung tâm anh ngữ Jane là một trung tâm đào tạo tiếng anh cho học viên từ nhiều độ tuổi khác nhau và đã có một lượng học viên ổn định, để mở rộng hoạt động của trung tâm ban quản lý mong muốn xây dựng một phần mềm quản lý trực tuyến nhằm mở rộng phạm vi cung cấp dịch vụ và tối ưu hóa quy trình quản lý học viên. 
 
