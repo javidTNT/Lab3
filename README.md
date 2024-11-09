@@ -29,30 +29,22 @@ Yêu cầu khách hàng mong muốn:
 **ReactJS** ReactJS là một thư viện JavaScript mã nguồn mở phát triển bởi Facebook và cộng đồng các nhà phát triển trên toàn thế giới. Với đặc tính linh hoạt, đơn giản và dễ sử dụng, ReactJS đã trở thành một trong những công nghệ phát triển web được ưa chuộng nhất hiện nay. Trong bài viết này, Stringee sẽ cùng bạn tìm hiểu về ReactJS - từ lịch sử phát triển, tính năng, cách sử dụng và các dự án thành công đã sử dụng ReactJS để xây dựng.
 
 ## Các chức năng đồ án làm được
-### 1.Xem Danh Sách Sách.
+### 1.Quản lý học viên.
 ![image](https://github.com/user-attachments/assets/c004795b-784c-4a8e-ae10-9d6a49fbd753)
 
-### 2.Tìm Kiếm Sách.
-![image](https://github.com/DoanVinhThanh/7_QuanLyThuVien_T5_Ca3/assets/135934208/c114b75f-1fc0-4d37-8e81-f9f04cfa87c6)
+### 2.Quản lý lớp học.
+![image](https://github.com/user-attachments/assets/6e89351d-cf8c-48f3-aea2-7ff72d919a43)
 
-### 3.Đặt Mượn Sách.
-![image](https://github.com/DoanVinhThanh/7_QuanLyThuVien_T5_Ca3/assets/135934208/568927b6-9990-42db-9450-419dc92ef3c6)
+### 3.Quản lý giảng viên.
+![image](https://github.com/user-attachments/assets/b936ed40-c3ad-41bd-b4ec-36c1775209d1)
 
 ### 4.Đăng Kí và Đăng Nhập.
-![image](https://github.com/DoanVinhThanh/7_QuanLyThuVien_T5_Ca3/assets/135934208/e6e1ad57-432b-4724-8c1a-9d14ee09feff)
+![image](https://github.com/user-attachments/assets/37f06b7c-8e54-4a04-9abc-05de12a454a8)
+![image](https://github.com/user-attachments/assets/9a0c185a-2295-446b-8be3-4bd6020b5c2d)
 
+### 5.Quản lý khóa học
+![image](https://github.com/user-attachments/assets/a89f39f2-a64e-4d5c-af4a-189a26f851d6)
 
-### 5.Admin chỉnh sửa,thêm,xóa sách trong thư viện
-![image](https://github.com/DoanVinhThanh/7_QuanLyThuVien_T5_Ca3/assets/135934208/e26ac38e-d1c0-4942-a48d-4826cc6ad053)
+### 6.Quản lý người dùng
+![image](https://github.com/user-attachments/assets/1dd59a0a-1337-44d4-848d-3b998d0bfa82)
 
-
-### 6.Xem danh sách sản phẩm
-![image](https://github.com/DoanVinhThanh/7_QuanLyThuVien_T5_Ca3/assets/135934208/39170724-672b-4c85-bc6f-e92233fec92b)
-
-
-### 7.Admin thêm xóa sửa thể loại sách
-![image](https://github.com/DoanVinhThanh/7_QuanLyThuVien_T5_Ca3/assets/135934208/3f4e4a68-5acc-408f-9a37-4e88fe572695)
-
-
-### 8.Admin xác nhận hoặc xóa đơn hàng khách đặt
-![image](https://github.com/DoanVinhThanh/7_QuanLyThuVien_T5_Ca3/assets/135934208/73d8b7fb-8c14-4b53-807c-69378deb8d4b)
