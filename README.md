@@ -30,7 +30,7 @@ Yêu cầu khách hàng mong muốn:
 
 ## Các chức năng đồ án làm được
 ### 1.Xem Danh Sách Sách.
-![image](https://github.com/DoanVinhThanh/7_QuanLyThuVien_T5_Ca3/assets/135934208/026730ff-0dc5-4cd2-afe1-c693c54465c4)
+![image](https://github.com/user-attachments/assets/c004795b-784c-4a8e-ae10-9d6a49fbd753)
 
 ### 2.Tìm Kiếm Sách.
 ![image](https://github.com/DoanVinhThanh/7_QuanLyThuVien_T5_Ca3/assets/135934208/c114b75f-1fc0-4d37-8e81-f9f04cfa87c6)
