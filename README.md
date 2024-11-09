@@ -22,27 +22,11 @@ Yêu cầu khách hàng mong muốn:
 - ## 2.Giới thiệu công nghệ sử dụng
 ![image](https://github.com/user-attachments/assets/a3ae765c-7155-40ee-aea3-2efe29997e9a)
 
-**MVC** là viết tắt của "Model-View-Controller," một mô hình kiến trúc phần mềm được sử dụng rộng rãi trong phát triển ứng dụng web và phần mềm để tách biệt logic ứng dụng thành ba phần chính: Model, View và Controller. Mô hình này giúp cải thiện tổ chức mã nguồn, tăng tính tái sử dụng và dễ bảo trì. Dưới đây là giới thiệu về từng phần trong mô hình MVC:
+**VSCode** Visual Studio Code (VS Code) là một trình soạn thảo mã nguồn mở gọn nhẹ nhưng có khả năng vận hành mạnh mẽ trên 3 nền tảng là Windows, Linux và macOS được phát triển bởi Microsoft. Nó hỗ trợ cho JavaScript, Node.js và TypeScript, cũng như cung cấp một hệ sinh thái mở rộng vô cùng phong phú cho nhiều ngôn ngữ lập trình khác. 
 
-**Model:**
+**Node.js** Node.js là một nền tảng mã nguồn mở được xây dựng trên V8 Javascript engine. Node.js được viết bằng c++ và Javascript. Nền tảng này được phát triển Node.js vào năm 2009 bởi Ryan Lienhart Dahl.
 
-**Model** là phần chịu trách nhiệm xử lý dữ liệu và logic của ứng dụng.
-Nó đại diện cho các đối tượng và dữ liệu trong ứng dụng.
-Model quản lý cách dữ liệu được lưu trữ, truy cập và cập nhật, bao gồm các hoạt động như truy vấn cơ sở dữ liệu, xử lý logic kinh doanh, và quản lý tài nguyên dữ liệu.
-
-**View:**
-
-**View** là phần chịu trách nhiệm hiển thị thông tin cho người dùng.
-Nó thể hiện giao diện người dùng, thường là các thành phần như trang web, giao diện người dùng đồ họa, hoặc giao diện dòng lệnh.
-View không nên chứa logic ứng dụng; nó chỉ nên biết cách hiển thị thông tin mà nó nhận từ Model và cách gửi yêu cầu người dùng đến Controller.
-
-**Controller:**
-
-**Controller** là phần chịu trách nhiệm điều phối và xử lý yêu cầu từ người dùng và giao tiếp với Model và View.
-Nó xử lý các sự kiện và yêu cầu từ người dùng, sau đó gọi Model để lấy dữ liệu hoặc cập nhật dữ liệu theo yêu cầu.
-**Controller** sau đó cập nhật View để hiển thị thông tin mới cho người dùng.
-Mô hình này cho phép tách biệt logic ứng dụng, giao diện người dùng và dữ liệu, giúp dễ dàng quản lý và bảo trì mã nguồn ứng dụng.
-MVC cung cấp sự linh hoạt và tổ chức trong phát triển ứng dụng, cho phép nhiều người cùng làm việc trên dự án mà không gây xung đột về mã nguồn. Nó cũng là một mô hình rất phù hợp cho phát triển ứng dụng web, nơi Model quản lý dữ liệu, View xử lý giao diện người dùng, và **Controller** điều phối hành vi và logic ứng dụng.
+**ReactJS** ReactJS là một thư viện JavaScript mã nguồn mở phát triển bởi Facebook và cộng đồng các nhà phát triển trên toàn thế giới. Với đặc tính linh hoạt, đơn giản và dễ sử dụng, ReactJS đã trở thành một trong những công nghệ phát triển web được ưa chuộng nhất hiện nay. Trong bài viết này, Stringee sẽ cùng bạn tìm hiểu về ReactJS - từ lịch sử phát triển, tính năng, cách sử dụng và các dự án thành công đã sử dụng ReactJS để xây dựng.
 
 ## Các chức năng đồ án làm được
 ### 1.Xem Danh Sách Sách.
